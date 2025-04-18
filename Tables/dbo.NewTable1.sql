@@ -1,0 +1,11 @@
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+SET ANSI_PADDING ON
+GO
+CREATE TABLE [dbo].[NewTable1] (
+		[Col1]     [int] NULL,
+		[Col2]     [char](1) COLLATE Cyrillic_General_CI_AS NULL
+) ON [PRIMARY]
+GO
+ALTER TABLE [dbo].[NewTable1] SET (LOCK_ESCALATION = TABLE)
+GO
