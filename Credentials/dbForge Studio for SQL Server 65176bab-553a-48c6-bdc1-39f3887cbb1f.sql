@@ -1,0 +1,2 @@
+CREATE CREDENTIAL [dbForge Studio for SQL Server 65176bab-553a-48c6-bdc1-39f3887cbb1f] WITH IDENTITY = '1'
+GO
