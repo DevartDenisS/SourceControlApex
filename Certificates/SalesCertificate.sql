@@ -1,0 +1,9 @@
+-- Can't script this Certificate
+-- Certificate [SalesCertificate]
+-- Authorization: dbo
+-- Subject: Certificate for Sales Operations
+-- Start date: 28.04.2025 16:44:39
+-- Expiry date: 28.04.2026 16:44:39
+-- Issuer: Certificate for Sales Operations
+-- Private key encryption: MK
+-- Is Active for Begin Dialog: True

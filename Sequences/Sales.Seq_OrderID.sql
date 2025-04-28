@@ -1,0 +1,11 @@
+CREATE SEQUENCE [Sales].[Seq_OrderID]
+	AS [bigint]
+	START WITH 200
+	INCREMENT BY 1
+	MINVALUE -9223372036854775808
+	MAXVALUE 9223372036854775807
+	NO CYCLE
+	CACHE;
+GO
+EXEC sp_addextendedproperty N'MS_Description', N'Sequence for order IDs', 'SCHEMA', N'Sales', 'SEQUENCE', N'Seq_OrderID', NULL, NULL
+GO

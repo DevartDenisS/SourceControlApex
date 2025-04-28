@@ -1,0 +1,9 @@
+--Can't script this Symmetric Key
+-- Symmetric Key [SalesSymKey]
+-- Authorization dbo
+-- Key algorithm: A3
+-- Key length: 256
+-- Key GUID: 'ccb4bc00-e288-4447-9b6f-d37edbae4418'
+-- Provider: 
+-- Creation date: 01.01.1601 02:00:00
+-- Modification date: 28.04.2025 19:44:39

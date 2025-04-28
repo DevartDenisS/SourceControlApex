@@ -1,0 +1,4 @@
+CREATE USER [SalesUser]
+	FOR LOGIN [SalesLogin]
+	WITH DEFAULT_SCHEMA = [dbo]
+GO

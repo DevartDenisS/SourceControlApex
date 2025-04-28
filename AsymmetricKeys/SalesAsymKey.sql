@@ -1,0 +1,8 @@
+--Can't script this Asymmetric Key
+-- Asymmetric Key [SalesAsymKey]
+-- Authorization: dbo
+-- Thumbprint: 0xC5CDDD6DB89AB7A8
+-- Private Key Encryption Type: ENCRYPTED_BY_PASSWORD
+-- Key algorithm: 3R
+-- Key length: 2048
+-- Provider: 
