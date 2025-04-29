@@ -1,0 +1,15 @@
+{
+  "Committed": false,
+  "DeploymentOrder": 1,
+  "Description": "PostDeplMigrScr",
+  "FullyQualifiedName": "dbo.New",
+  "Name": "MigrationScript2",
+  "ObjectName": "New",
+  "OldFullyQualifiedName": null,
+  "OrderOfExecution": 0,
+  "Schema": "dbo",
+  "Script": "Select 2",
+  "SqlObjType": "Table",
+  "Time": "2025-04-29T11:18:53",
+  "UniqueId": "7894ffec-f3eb-48f5-9042-d290b1703c19"
+}
