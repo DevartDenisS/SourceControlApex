@@ -1,0 +1,11 @@
+SET ANSI_NULLS ON
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TRIGGER Sales.trg_Customers_SimpleMsg
+ON Sales.Customers
+AFTER INSERT, UPDATE, DELETE
+AS
+BEGIN
+    PRINT 'Customers table changed';
+END;
+GO
