@@ -1,7 +1,7 @@
 {
   "Committed": false,
   "DeploymentOrder": 0,
-  "Description": "Rename Table Orders to OrdersNew",
+  "Description": "PreDeplMigrScr",
   "FullyQualifiedName": "Sales.OrdersNew",
   "Name": "MigrationScript1",
   "ObjectName": "OrdersNew",
@@ -10,6 +10,6 @@
   "Schema": "Sales",
   "Script": "Select 1",
   "SqlObjType": "Table",
-  "Time": "2025-04-29T11:04:15",
+  "Time": "2025-04-29T11:16:17",
   "UniqueId": "a105ede1-a658-4706-bacf-450222845dac"
 }
