@@ -1,0 +1,5 @@
+INSERT INTO [Sales].[Customers] ([CustomerID], [Name], [Email], [Phone]) VALUES (1, N'John Smith', N'john.smith@example.com', N'555-0100')
+INSERT INTO [Sales].[Customers] ([CustomerID], [Name], [Email], [Phone]) VALUES (2, N'Emily Johnson', N'emily.johnson@example.com', N'555-0101')
+INSERT INTO [Sales].[Customers] ([CustomerID], [Name], [Email], [Phone]) VALUES (3, N'Michael Brown', N'michael.brown@example.com', N'555-0102')
+INSERT INTO [Sales].[Customers] ([CustomerID], [Name], [Email], [Phone]) VALUES (4, N'Sarah Davis', N'sarah.davis@example.com', N'555-0103')
+INSERT INTO [Sales].[Customers] ([CustomerID], [Name], [Email], [Phone]) VALUES (5, N'Christopher Wilson', N'chris.wilson@example.com', N'555-0104')
