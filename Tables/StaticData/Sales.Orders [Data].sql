@@ -1,0 +1,5 @@
+INSERT INTO [Sales].[Orders] ([OrderID], [CustomerID], [OrderDate], [Amount]) VALUES (101, 1, '20240110 00:00:00.000', 120.0000)
+INSERT INTO [Sales].[Orders] ([OrderID], [CustomerID], [OrderDate], [Amount]) VALUES (102, 2, '20240215 00:00:00.000', 180.2500)
+INSERT INTO [Sales].[Orders] ([OrderID], [CustomerID], [OrderDate], [Amount]) VALUES (103, 3, '20240320 00:00:00.000', 99.9900)
+INSERT INTO [Sales].[Orders] ([OrderID], [CustomerID], [OrderDate], [Amount]) VALUES (104, 1, '20240401 00:00:00.000', 200.0000)
+INSERT INTO [Sales].[Orders] ([OrderID], [CustomerID], [OrderDate], [Amount]) VALUES (105, 5, '20240410 00:00:00.000', 75.7500)
